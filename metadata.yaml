@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41959
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Farjeon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43190#Blade-O--Grass.-Golden-Grain.-and-Bread-and-Cheese-and-Kisses.
 gutenberg_issued: '2013-07-10'
 gutenberg_type: Text
 identifiers:
